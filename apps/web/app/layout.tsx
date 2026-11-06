@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "OrderRestro",
+  title: "Aeterna Restaurants",
   description: "Offline-first restaurant management system",
   manifest: "/manifest.json",
   icons: {
